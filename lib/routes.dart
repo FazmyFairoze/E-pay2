@@ -3,6 +3,7 @@
 
 //import 'dart:js';
 
+import 'package:e_pay/screens/qr/qr.dart';
 import 'package:flutter/widgets.dart';
 import 'package:e_pay/screens/cart/cart_screen.dart';
 import 'package:e_pay/screens/complete_profile/complete_profile_screen.dart';

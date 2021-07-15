@@ -41,6 +41,8 @@ dependencies:
   font_awesome_flutter: ^8.2.0
   #syncfusion_flutter_chart: ^19.1.54
   fl_chart: ^0.36.1
+  #qr_code_scanner: ^0.5.1
+  barcode_scan:
 
 
 

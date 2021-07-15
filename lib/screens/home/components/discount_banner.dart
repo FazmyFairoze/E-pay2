@@ -10,7 +10,7 @@ class DiscountBanner extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 250,
+      height: 180,
       width: double.infinity,
       margin: EdgeInsets.all(getProportionateScreenWidth(20)),
       padding: EdgeInsets.symmetric(
@@ -37,7 +37,7 @@ class DiscountBanner extends StatelessWidget {
             TextSpan(text: "Phone Number: +60102821772\n"),
             TextSpan(text: "NIC Number: 1911739423\n"),
             TextSpan(text: "Address: 114/8 aramaya road\n"),
-            TextSpan(text: "Balance Availabe: Rs500\n"),
+            TextSpan(text: "TOTAl SPENT: Rs5000\n"),
           ],
         ),
       ),

@@ -1,3 +1,4 @@
+import 'package:e_pay/screens/home/components/spending_comparision.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_sparkline/flutter_sparkline.dart';
 //import 'package:flutter_circular_chart/flutter_circular_chart.dart';
@@ -23,6 +24,7 @@ class Body extends StatelessWidget {
             //Graph(context),
             DiscountBanner(),
             PieChartSample1(),
+            SpendingComparision(),
             //BalanceChart(),
             //Graph(context),
             //BalanceGraph(context),
